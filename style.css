@@ -157,7 +157,7 @@ div a:hover{
 	cursor:pointer;
 }
 .contact{
-	background-image:linear-gradient(to right, blue,green,orange,white);
+	background-image:linear-gradient(to right, blue,aqua,lightblue,white);
 	font-style: bold;
 
 }
